@@ -1,16 +1,17 @@
-# theme_app
+# 🌗 Theme Toggle App
 
-A new Flutter project.
+A simple Flutter application that lets users switch between **Light Mode** and **Dark Mode** using a custom animated toggle switch.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- Light and Dark Theme Support
+- Custom-designed animated toggle switch
+- Smooth UI with clean layout
+- Responsive design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screenshots
+![Image](https://github.com/user-attachments/assets/e3629ff6-6eb0-4294-9006-9887a4cf8569)
