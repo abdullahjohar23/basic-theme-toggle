@@ -1,0 +1,45 @@
+name: theme_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+    sdk: ^3.8.1
+
+dependencies:
+    flutter:
+        sdk: flutter
+    cupertino_icons: ^1.0.8
+
+dev_dependencies:
+    flutter_test:
+        sdk: flutter
+    flutter_lints: ^5.0.0
+    flutter_native_splash: ^2.4.6
+    flutter_launcher_icons: ^0.14.4
+
+flutter_launcher_icons:
+    android: true
+    ios: false
+    windows: false
+    macos: false
+    image_path: "asset/appicon.png"
+
+flutter_native_splash:
+    color: "#ffffff"
+    image: "asset/appicon.png"
+    android: true
+    ios: false
+    fullscreen: true
+    
+    android_12:
+        image: "asset/appicon.png"
+        fullscreen: true
+        icon_background_color: "#ffffff"
+
+# The following section is specific to Flutter packages.
+flutter:
+    uses-material-design: true
+    assets:
+        - asset/
